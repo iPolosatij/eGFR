@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eGFR</string>
+    <string name="femin">female</string>
+    <string name="black">dark skin</string>
+    <string name="relise">calculate</string>
+    <string name="clean">clear</string>
+    <string name="mass">weight</string>
+    <string name="age">age</string>
+    <string name="kreatinine">creatinine</string>
+    <string name="cistatine">cystatin C</string>
+    <string name="hi">To calculate the GFR, enter the data that you have.</string>
+</resources>
